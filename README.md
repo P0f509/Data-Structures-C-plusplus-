@@ -1,19 +1,12 @@
 # Data-Structures-C-plusplus-
-Educational Project for Data Structures and Algorithms
-Suite to create and manage data structures in C++:
 
--Vectors;
+Educational Project for Data Structures and Algorithms course. Essentially, it's a suite to create and manage the following data structures in C++ :
 
--Linked Lists;
-
--Stacks;
-
--Queues;
-
--Generics Binary Threes;
-
--BSTs;
-
--CSR Matrixs;
-
--Vector Implementation Matrixs;
+- Vectors;
+- Linked Lists;
+- Stacks;
+- Queues;
+- Generics Binary Threes;
+- BSTs;
+- CSR Matrixs;
+- Vector Implementation Matrixs;
