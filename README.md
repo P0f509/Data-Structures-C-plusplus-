@@ -1,4 +1,4 @@
-# Data-Structures-C-plusplus-
+# Data Structures in C++
 
 Educational Project for Data Structures and Algorithms course. Essentially, it's a suite to create and manage the following data structures in C++ :
 
